@@ -1,0 +1,15 @@
+#banniere-concert {
+    width: 600px;
+    padding: 0 100px;
+    transform: rotate(45deg);
+    position: fixed;
+    top: 180px;
+    right: -180px;
+    background: rgba(255, 225, 0, 0.755);
+    text-align: center;
+    box-shadow: inset 0px 0px 12px grey;
+   }
+   #banniere-concert p {
+    font-size: 1.8rem;
+    margin: 3rem;
+   }

@@ -1,0 +1,43 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2023-09-20 10:57+0200\n"
+"PO-Revision-Date: 2023-09-20 10:58+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.3.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_n\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/banniere-concert-menus.php:12
+msgid "Next concert's banner"
+msgstr "Bannière du prochain concert"
+
+#: inc/banniere-concert-menus.php:13
+msgid "Next concert"
+msgstr "Prochain concert"
+
+#: inc/banniere-concert-options.php:15
+msgid "Banner options"
+msgstr "Options de la bannière"
+
+#: inc/banniere-concert-options.php:23
+msgid "Banner activated"
+msgstr "Bannière activée"
+
+#: inc/banniere-concert-options.php:30
+msgid "Date"
+msgstr "Date"
+
+#: inc/banniere-concert-options.php:37
+msgid "Location"
+msgstr "Emplacement"
+
+#: inc/banniere-concert-options.php:44
+msgid "Banner's color"
+msgstr "Couleur de la bannière"
